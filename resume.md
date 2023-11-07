@@ -1,5 +1,5 @@
 # Sara Bremer
-Phone: (801) 647-9501
+Phone: (801) 647-9501  
 Email: sara.aliesha.bremer@gmail.com
 
 ## Summary
@@ -17,16 +17,16 @@ Extensive mathematics and computer science study. High attention to detail and e
 
 ## Experience
 ### SameDay Heating & Air, Plumbing and Electrical
-**Accounting Clerk**
-*August 2021 - Current*
-*South Salt Lake, UT*
-At SameDay Heating & Air, Plumbing and Electrical, my responsibilities include creating Excel and Google spreadsheets as needed to sort data and automate previously manual work. I also manipulate the TouchStone website to explain procedures visually and with explicit detail, review HVAC tickets for accuracy, efficiency, and revenue totals, and apply labor costs to tickets. Additionally, I track technicians' parts and replenish them after use, pull permits for HVAC installations, and mail notification letters to residential clients. I compile weekly commissions for employees and report weekly summaries across all residential departments. My role also involves reviewing commercial tickets for accuracy and revenue totals, submitting invoices to commercial customers, and contacting commercial customers for collections.
+*August 2021 - Current*  
+*South Salt Lake, UT*  
+*Accounting Clerk*. Create Excel and Google spreadsheets as needed to sort data and automate previously manual work. Manipulate TouchStone website to explain procedures visually and with explicit detail. Review HVAC tickets for accuracy, efficiency, and revenue totals. Apply labor costs to tickets. Track technicians’ parts and replenish after use. Pull permits for HVAC Installations. Mail notification letters to residential clients. Compile weekly commissions for employees. Report weekly summaries across all residential departments.Review commercial tickets for
+accuracy and revenue totals. Submit invoices to commercial customers. Call, email, and mail commercial customers for collections.
 
 ### Mathnasium
-**Tutor, Instructor**
-*January 2021 - August 2022*
-*South Jordan, UT*
-At Mathnasium, I worked as a tutor and instructor, responsible for assembling binders and content for students. I checked students in and out of the center, assigned and graded papers, reviewed wrong answers with students, and explained new content with students using Socratic questioning and conversational teaching.
+*January 2021 - August 2022*  
+*South Jordan, UT*  
+*Tutor, Instructor*. Assembled binders and content for students. Checked students in and out of the center. Assigned and graded papers. Reviewed wrong answers with students. Explained new content with students using Socratic questioning and conversational teaching.
+
 
 ## Volunteer Experience
 - **Tutoring**: Taught elementary students how to read, conjugate, and introduce writing.
@@ -35,10 +35,10 @@ At Mathnasium, I worked as a tutor and instructor, responsible for assembling bi
 - **Gardening**: Helped lay soil down and plant sales at Wasatch Community Gardens.
 
 ## Education
-**Utah Valley University**
+**Utah Valley University**  
 Pursuing a bachelor’s degree in Software Development with a minor in Mathematics. Developing modern programs with efficient algorithms using Python and C++. Created numerous IOS programs with over 1,000 lines of condensed code and a fully functional Python Cash Register. Integrated Kivy digital displays of information and imaging.
 
-**Salt Lake Community College**
+**Salt Lake Community College**  
 Associate of Science: Mathematics Major - 3.97 GPA. General Education Courses combined with Calculus, Discrete Math, Linear Algebra, Differential Equations, Physics and Engineering, Coding, and Engineering Computing.
 
 **Kearns High School Diploma** - 4.0 GPA
